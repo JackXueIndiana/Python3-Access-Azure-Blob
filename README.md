@@ -25,3 +25,6 @@ We add a configuration file in ~/Documents. The Python 3 code will read the blob
 4. Create a file in Documents to test the upload and download.
 
 5. Clean up resources. This includes the container and the temp files
+
+
+Using configuration file is to hide account name and key from direct exposure. Also administrator can put this file in a File Share to control the access and refresh the key periodically.
